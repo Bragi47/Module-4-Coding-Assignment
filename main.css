@@ -1,0 +1,18 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   background-color: blueviolet;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 300px;
+}
